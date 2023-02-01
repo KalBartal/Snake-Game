@@ -6,6 +6,8 @@ This application replicates the popular mobile phone game of the mid - late 90s;
 
 The rules are simple. The snake keeps moving to find and eat food which makes the sanke longer. It cannot collide with any of the walls or its own tail.
 
+Good luck and have fun!
+
 ## Usage
 
 ![Snake Game](https://i.imgur.com/q349sG1.png)
